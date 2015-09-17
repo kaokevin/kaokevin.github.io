@@ -1,0 +1,35 @@
+body {
+  background-color: #EDEDED; /* grey */
+}
+
+body, h1, h2, h3, h4, h5 {
+  font-family: 'Montserrat', 'Lato', 'Roboto';
+  color: #003366;
+}
+
+.main-header a {
+  color: #003366;
+}
+
+.main-header a:hover {
+  color: #337ab7;
+  text-decoration: none;
+  -o-transition:.2s ease-in-out;
+  -ms-transition:.2s ease-in-out;
+  -moz-transition:.2s ease-in-out;
+  -webkit-transition:.2s ease-in-out;
+  transition:.2s ease-in-out;
+}
+
+.center-text {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.vertical-center {
+  min-height: 90%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+}
+
