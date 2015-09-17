@@ -33,3 +33,9 @@ body, h1, h2, h3, h4, h5 {
   align-items: center;
 }
 
+.r-pad {
+  margin-right: 5px;
+}
+.l-pad {
+  margin-left: 5px;
+}
