@@ -196,7 +196,7 @@ export default {
       address: 'San Francisco Bay Area ·',
       copyEmail: 'kkao@berkeley.edu',
       email: 'kkao@berkeley/edu',
-      aboutMe: 'UC Berkeley \'16 EECS graduate + Senior Staff SWE @LinkedIn, tackling applied machine learning and scalable infrastructure problems. Got a challenging ML or algorithms problem? I\'d be happy to chat about it over some coffee.',
+      aboutMe: 'UC Berkeley \'16 EECS graduate + Senior Staff SWE @LinkedIn focused on distributed backend systems, machine learning infrastructure, search systems, and LLM workflows. Got a challenging ML or algorithms problem? I\'d be happy to chat about it over some coffee.',
       miscBlurb: 'Apart from being a software engineer, I enjoy spending time outdoors and staying active, whether it be hiking the nearby trails or bouldering at the local gym. I\'m an avid photographer, a huge dog lover, and a coffee enthusiast.',
       experience: [
         {
